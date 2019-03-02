@@ -8,6 +8,7 @@
 	{
 		"latitude": lat.,
 		"longitude": long.,
+		"floor": floor.,
 		"cleanliness_rating": 0/5,
 		"attributes": {
 			"changing_station": Boolean
